@@ -4,7 +4,7 @@
 .body{
     background-color: rgb(43, 40, 40);
 }
-ol,h1,h2,h3,h4,li,p{
+ol,h1,h2,li,p{
     color: rgb(255, 255, 255);
 }
 .ecuaciones{
